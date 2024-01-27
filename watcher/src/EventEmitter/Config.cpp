@@ -1,0 +1,5 @@
+#include "Config.h"
+
+int ALARM_COMMAND_CODE = 1;
+int ARMING_COMMAND_CODE = 2;
+int DISARMING_COMMAND_CODE = 3;
